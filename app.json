@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Job Finder App",
+    "slug": "job-finder",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#3B82F6"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "jobfinder"
+  }
+}
