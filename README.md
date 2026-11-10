@@ -1,5 +1,7 @@
 # JobFinder - Mobile Application
 
+> 👨‍💻 Developed by **[Suresh Kumar Meesala](https://github.com/SureshKumarMeesala)** · 🎨 UI design by **Fadli Creative** (credits below)
+
 A job search and application mobile application built with **pure JavaScript & JSX** (`.js` / `.jsx`), Expo SDK 58+, and Expo Router, based on the 38 Sketch artboards.
 
 ---
@@ -91,6 +93,21 @@ npx expo start
 Then press `i` for the iOS simulator, `a` for Android, or `w` for the web, or scan the QR code with Expo Go.
 
 <!-- run-locally:end -->
+
+<!-- developer:start -->
+
+## 👨‍💻 Developer
+
+This React Native app was developed by **Suresh Kumar Meesala**.
+
+| | |
+|---|---|
+| Developer | [Suresh Kumar Meesala](https://github.com/SureshKumarMeesala) |
+| GitHub | [@SureshKumarMeesala](https://github.com/SureshKumarMeesala) |
+| Organization | [FreeAppSource](https://github.com/FreeAppSource) |
+| Repository | <https://github.com/FreeAppSource/job-finder-app> |
+
+<!-- developer:end -->
 
 ---
 
